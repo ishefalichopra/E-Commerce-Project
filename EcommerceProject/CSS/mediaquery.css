@@ -1,0 +1,27 @@
+
+
+
+
+
+
+
+@media only screen and (max-width:1400px){
+     
+    body{
+
+    }
+}
+
+@media only screen and (max-width:1100px){
+     
+    body{
+        
+    }
+}
+
+@media only screen and (max-width:900px){
+     
+    header .header-box{
+        flex-direction: column;
+    }
+}
